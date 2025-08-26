@@ -15,11 +15,11 @@ Built in Unity (C#), this project focuses on:
 
 # ✨ Features (Planned)
 
-. 🏚️ Atmospheric World — Explore abandoned houses, eerie woods, and forgotten ruins.
-. 🔦 Immersive Horror Mechanics — Flashlight, sound-based tension.
-. 📖 Branching Narrative — Player decisions unlock different endings.
-. 🎧 Dynamic Whisper System — Audio whispers that react to player behavior.
-. 🛠️ Unity Built — Modular systems for easy expansion and polish.
+* 🏚️ Atmospheric World — Explore abandoned houses, eerie woods, and forgotten ruins.
+* 🔦 Immersive Horror Mechanics — Flashlight, sound-based tension.
+* 📖 Branching Narrative — Player decisions unlock different endings.
+* 🎧 Dynamic Whisper System — Audio whispers that react to player behavior.
+* 🛠️ Unity Built — Modular systems for easy expansion and polish.
 
 # 🛠️ Tech Stack
 
