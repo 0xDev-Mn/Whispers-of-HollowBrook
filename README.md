@@ -15,11 +15,11 @@ Built in Unity (C#), this project focuses on:
 
 # ✨ Features (Planned)
 
-🏚️ Atmospheric World — Explore abandoned houses, eerie woods, and forgotten ruins.
-🔦 Immersive Horror Mechanics — Flashlight, sound-based tension.
-📖 Branching Narrative — Player decisions unlock different endings.
-🎧 Dynamic Whisper System — Audio whispers that react to player behavior.
-🛠️ Unity Built — Modular systems for easy expansion and polish.
+. 🏚️ Atmospheric World — Explore abandoned houses, eerie woods, and forgotten ruins.
+. 🔦 Immersive Horror Mechanics — Flashlight, sound-based tension.
+. 📖 Branching Narrative — Player decisions unlock different endings.
+. 🎧 Dynamic Whisper System — Audio whispers that react to player behavior.
+. 🛠️ Unity Built — Modular systems for easy expansion and polish.
 
 # 🛠️ Tech Stack
 
@@ -30,15 +30,15 @@ Built in Unity (C#), this project focuses on:
 
 # 🎮 Controls (Prototype)
 
-WASD → Move
-Mouse → Look
-E → Interact
-Shift → Sprint
-F → Flashlight
+- WASD → Move
+- Mouse → Look
+- E → Interact
+- Shift → Sprint
+- F → Flashlight
 
 # 🙌 Contributors
-Dev-Mn — Game Designer, Developer, Writer
-ChatGPT — Documentation, Brainstorming, Technical Guidance
+* Dev-Mn — Game Designer, Developer, Writer
+* ChatGPT — Documentation, Brainstorming, Technical Guidance
 
 # 💡 Inspiration
 Inspired by Silent Hill, Amnesia, and Layers of Fear and ofcourse Resident Evil.
